@@ -13,9 +13,9 @@ This is a ruby project to decode a morse-code, It takes a string parameter, and 
 ## Authors
 
 👤 **Mahbub Alam**
-- GitHub: [@Rmahbubul14](https://github.com/mahbubul14)
+- GitHub: [@mahbubul14](https://github.com/mahbubul14)
 - Twitter: [@twitterhandle](https://twitter.com/mahbubul_14)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahbubul-alam-20595/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahbubul14/) 
 
 👤 **Lilian Francis**
 
