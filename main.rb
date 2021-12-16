@@ -13,9 +13,9 @@ def decode_word(str)
   words.join
 end
 
-# def decode(str)
-#   messages = str.split('   ').map { |message| decode_word(message) }
-#   messages.join(' ')
-# end
+def decode(str)
+  messages = str.split('   ').map { |message| decode_word(message) }
+ messages.join(' ')
+end
 
-# print decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
+ print decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
